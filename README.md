@@ -4,6 +4,9 @@
 ### 依赖软件 (Dependecies)
 - Lucene
 - testng(for unit test)
+- JDBC
+- DBUtils
+- bonecp
 
 ### 目标 (Goal for the Project)
 - 将词库管理由文本文件迁移到数据库(***)
