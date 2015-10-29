@@ -1,0 +1,26 @@
+*.class
+
+# Macosx Noise #
+.DS_Store
+profile
+
+# Logs or Test Tools Files
+test-output/
+logs/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target/
+
+# Eclipse #
+.classpath
+.project
+.settings
+.settings/*
+
+# Maven plugins noise #
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+
